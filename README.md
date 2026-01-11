@@ -7,7 +7,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Systems+Architect;Digital+Product+Designer;Tech+Educator+and+Mentor;Building+the+Future+of+Tech)](https://git.io/typing-svg)
 
-  <h3>🌍 Nairobi, Kenya | 🚀 Founder of Next Mavens | 💡 Tech Innovator</h3>
+  <h3>Nairobi, Kenya | Founder of Next Mavens |  Tech Innovator</h3>
   
   [![GitHub followers](https://img.shields.io/github/followers/Mkid095?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B35&color=FF6B35)](https://github.com/Mkid095)
   [![GitHub stars](https://img.shields.io/github/stars/Mkid095?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B35&color=FF6B35)](https://github.com/Mkid095)
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Quick Navigation
+## Quick Navigation
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 <div align="center">
   
@@ -55,17 +55,17 @@ const kennedy = {
 };
 ```
 
-### 🎯 What I Do Best
+### What I Do Best
 
-- 🏗️ **Architect Scalable Systems**: Design robust, scalable digital solutions that grow with your business
-- 🤖 **AI Integration**: Implement intelligent automation and predictive analytics
-- 🎨 **User-Centric Design**: Create intuitive interfaces that users love
-- 👥 **Team Leadership**: Guide development teams to deliver exceptional results
-- 📚 **Knowledge Sharing**: Mentor the next generation of developers
+- **Architect Scalable Systems**: Design robust, scalable digital solutions that grow with your business
+- **AI Integration**: Implement intelligent automation and predictive analytics
+- **User-Centric Design**: Create intuitive interfaces that users love
+- **Team Leadership**: Guide development teams to deliver exceptional results
+- **Knowledge Sharing**: Mentor the next generation of developers
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 <div align="center">
   
@@ -89,45 +89,45 @@ const kennedy = {
 
 ---
 
-## 🔥 Project Highlights
+## Project Highlights
 
-### 🚛 Power Logistics Shipment System
+### Power Logistics Shipment System
 **Next.js + Firebase** | Full-stack logistics platform with customer and company portals, advanced project management, and integrated payment systems.
 
-- ✨ **Key Features**: Real-time tracking, multi-portal architecture, payment integration
-- 🛠️ **Tech Stack**: Next.js, Firebase, TypeScript, Tailwind CSS
-- 📊 **Impact**: Streamlined logistics operations for 50+ businesses
+- **Key Features**: Real-time tracking, multi-portal architecture, payment integration
+- **Tech Stack**: Next.js, Firebase, TypeScript, Tailwind CSS
+- **Impact**: Streamlined logistics operations for 50+ businesses
 
-### 🤖 AI Social Media Strategist
+### AI Social Media Strategist
 **Python + TensorFlow** | Self-learning AI system for automated content management and strategic social media planning.
 
-- ✨ **Key Features**: Content generation, performance analytics, automated scheduling
-- 🛠️ **Tech Stack**: Python, TensorFlow, React, Node.js
-- 📊 **Impact**: Increased engagement by 300% for early adopters
+- **Key Features**: Content generation, performance analytics, automated scheduling
+- **Tech Stack**: Python, TensorFlow, React, Node.js
+- **Impact**: Increased engagement by 300% for early adopters
 
-### 📈 AI Trading Model
+### AI Trading Model
 **Python + PyTorch** | Machine learning model for the Deriv digit market with predictive analytics and automated decision-making.
 
-- ✨ **Key Features**: Predictive analytics, automated trading, risk management
-- 🛠️ **Tech Stack**: Python, PyTorch, FastAPI, PostgreSQL
-- 📊 **Impact**: 78% accuracy in market predictions
+- **Key Features**: Predictive analytics, automated trading, risk management
+- **Tech Stack**: Python, PyTorch, FastAPI, PostgreSQL
+- **Impact**: 78% accuracy in market predictions
 
-### 👨‍🏫 Digital Skills Training
+### Digital Skills Training
 **Next.js + MongoDB** | Mentorship programs teaching next-generation developers practical skills in modern web development and AI.
 
-- ✨ **Key Features**: Interactive courses, progress tracking, community support
-- 🛠️ **Tech Stack**: Next.js, MongoDB, WebRTC, Stripe
-- 📊 **Impact**: Trained 500+ developers with 95% employment rate
+- **Key Features**: Interactive courses, progress tracking, community support
+- **Tech Stack**: Next.js, MongoDB, WebRTC, Stripe
+- **Impact**: Trained 500+ developers with 95% employment rate
 
 ---
 
-## 🎯 Core Competencies
+## Core Competencies
 
 <table>
 <tr>
 <td width="50%">
 
-**🛠️ Development Excellence**
+**Development Excellence**
 - Full-Stack Engineering: Next.js, React, Node.js, TypeScript
 - Database Architecture: Firebase, MongoDB, PostgreSQL, Supabase
 - Modern Styling: Tailwind CSS, Styled Components, SASS
@@ -137,7 +137,7 @@ const kennedy = {
 </td>
 <td width="50%">
 
-**🎨 Design and AI Innovation**
+**Design and AI Innovation**
 - Product Design: UI/UX, Branding, Graphics
 - AI Integration: Automation, Smart Dashboards
 - Content Creation: Social Media Strategy
@@ -150,9 +150,9 @@ const kennedy = {
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
-### 🎨 Frontend Development
+### Frontend Development
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=FF6B35)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FF6B35)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=FF6B35)
@@ -162,7 +162,7 @@ const kennedy = {
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=FF6B35)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black&labelColor=FF6B35)
 
-### ⚙️ Backend and Database
+### Backend and Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=FF6B35)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=FF6B35)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=FF6B35)
@@ -171,7 +171,7 @@ const kennedy = {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF6B35)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=FF6B35)
 
-### 🗄️ Databases
+### Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FF6B35)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=FF6B35)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=FF6B35)
@@ -180,7 +180,7 @@ const kennedy = {
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&labelColor=FF6B35)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=FF6B35)
 
-### 🤖 AI and Data Science
+### AI and Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FF6B35)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6B35)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=FF6B35)
@@ -189,7 +189,7 @@ const kennedy = {
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=FF6B35)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=FF6B35)
 
-### 🎨 Design and Creative Tools
+### Design and Creative Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=FF6B35)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=FF6B35)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=FF6B35)
@@ -197,7 +197,7 @@ const kennedy = {
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=FF6B35)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black&labelColor=FF6B35)
 
-### ☁️ Cloud and DevOps
+### Cloud and DevOps
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B35)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF6B35)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=FF6B35)
@@ -211,7 +211,7 @@ const kennedy = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   
@@ -235,7 +235,7 @@ const kennedy = {
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
   
@@ -245,7 +245,7 @@ const kennedy = {
 
 ---
 
-## 📈 Top Contributed Repositories
+## Top Contributed Repositories
 
 <div align="center">
   
@@ -255,7 +255,7 @@ const kennedy = {
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -272,7 +272,7 @@ const kennedy = {
 
 ---
 
-## 💡 Developer Insights
+## Developer Insights
 
 <div align="center">
   
@@ -282,7 +282,7 @@ const kennedy = {
 
 ---
 
-## 📊 Profile Metrics
+## Profile Metrics
 
 <div align="center">
   
@@ -294,7 +294,7 @@ const kennedy = {
 
 ---
 
-## 🌟 Featured Articles & Talks
+## Featured Articles & Talks
 
 <div align="center">
   
@@ -310,7 +310,7 @@ const kennedy = {
 
 ---
 
-## 🎯 Current Focus Areas
+## Current Focus Areas
 
 <div align="center">
   
@@ -327,7 +327,7 @@ const kennedy = {
   
   **"Technology should empower people, not complicate their lives"**
   
-  Built with ❤️ by Kennedy Mwangi | Next Mavens
+  Built by Kennedy Mwangi | Next Mavens
   
 </div>
 
