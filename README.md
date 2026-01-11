@@ -36,7 +36,7 @@
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/Mkid095/Mkid095/main/profile-image.png" alt="Profile Image" width="150" style="border-radius: 50%; border: 3px solid #FF6B35;">
+  <img src="https://raw.githubusercontent.com/Mkid095/Mkid095/main/profile-image.png](https://avatars.githubusercontent.com/u/154312723?v=4&size=64)" alt="Profile Image" width="150" style="border-radius: 50%; border: 3px solid #FF6B35;">
   
 </div>
 
