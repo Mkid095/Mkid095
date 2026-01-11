@@ -1,5 +1,4 @@
 
-```markdown
 # Kennedy Mwangi | Digital Solutions Architect
 
 <div align="center">
@@ -341,5 +340,5 @@ const kennedy = {
   <sub>Last updated: January 2026 | 🔄 Auto-updated with GitHub Actions</sub>
   
 </div>
-```
+
 
