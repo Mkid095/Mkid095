@@ -182,17 +182,17 @@ const kennedy = {
 
 <!-- STATS:START -->
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/commits-dark.svg ./profile/stats-dark.svg ./profile/langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/commits.svg ./profile/stats.svg ./profile/langs.svg">
   <img src="./profile/commits.svg" width="300" height="120" alt="Commits this month">
-</p>
+</picture>
 
-<p align="center">
-  <img src="./profile/stats.svg" width="495" height="195" alt="GitHub Stats">
-  <img src="./profile/langs.svg" width="495" height="180" alt="Top Languages">
-</p>
+| | |
+|---|---|
+| <img src="./profile/stats.svg" width="495" height="195" alt="GitHub Stats"> | <img src="./profile/langs.svg" width="495" height="180" alt="Top Languages"> |
 
-<em>Monthly: 171 commits &middot; 71 public repos &middot; 94 private repos &middot; 7 followers &middot; 3 total stars &middot; All-time: 4,517 commits</em>
-
+<em>Monthly: 0 commits &middot; 71 public repos &middot; 0 private repos &middot; 7 followers &middot; 3 total stars &middot; All-time: 0 commits</em>
 <!-- STATS:END -->
 
 ---
