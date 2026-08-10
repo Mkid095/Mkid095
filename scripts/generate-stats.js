@@ -302,27 +302,25 @@ async function main() {
     .sort((a, b) => b.stargazers_count - a.stargazers_count)
     .slice(0, 6);
 
-  const pinRows = sorted.map(
-    (r) =>
-      `[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=${USERNAME}&repo=${r.name}&show_owner=false&theme=default" width="492" />](${r.html_url})`
-  );
+  const pinRows = sorted.map((r) => {
+    const stars = r.stargazers_count || 0;
+    const lang = r.language || "-";
+    const desc = r.description || "No description";
+    return `### [${r.name}](${r.html_url})\n${desc}\n\n**${lang}** &middot; **${stars}** stars`;
+  });
 
   // 7. Update README markers
   let readme = fs.readFileSync(README_PATH, "utf8");
 
-  // Stats section
+  // Stats section — clean markdown image syntax for committed SVGs
   const statsBlock = `
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/commits-dark.svg ./profile/stats-dark.svg ./profile/langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/commits.svg ./profile/stats.svg ./profile/langs.svg">
-  <img src="./profile/commits.svg" width="300" height="120" alt="Commits this month">
-</picture>
+![Commits this month](./profile/commits.svg)
 
-| | |
-|---|---|
-| <img src="./profile/stats.svg" width="495" height="195" alt="GitHub Stats"> | <img src="./profile/langs.svg" width="495" height="180" alt="Top Languages"> |
+![GitHub Stats](./profile/stats.svg)
 
-<em>Monthly: ${monthly} commits &middot; ${publicRepos} public repos &middot; ${privateRepos} private repos &middot; ${followers} followers &middot; ${totalStars} total stars &middot; All-time: ${totalCommits.toLocaleString()} commits</em>`;
+![Top Languages](./profile/langs.svg)
+
+**${monthly}** commits this month &middot; **${publicRepos}** public repos &middot; **${privateRepos}** private repos &middot; **${followers}** followers &middot; **${totalStars}** stars &middot; **${totalCommits.toLocaleString()}** all-time commits`;
 
   const sStart = readme.indexOf("<!-- STATS:START -->");
   const sEnd = readme.indexOf("<!-- STATS:END -->");
@@ -339,7 +337,7 @@ async function main() {
   if (pStart !== -1 && pEnd !== -1) {
     readme =
       readme.slice(0, pStart + "<!-- PROJECTS:START -->".length) +
-      "\n\n" + pinRows.join("\n\n") + "\n\n" +
+      "\n\n" + pinRows.join("\n\n---\n\n") + "\n\n" +
       readme.slice(pEnd);
   }
 
