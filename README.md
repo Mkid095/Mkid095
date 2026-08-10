@@ -89,182 +89,17 @@ const kennedy = {
 
 <!-- PROJECTS:START -->
 
-<div class="projects-grid">
-<div class="project-card">
-  <div class="project-card-header">
-    <a class="project-name" href="https://github.com/Mkid095/next-mavens-flow" target="_blank">
-      <svg height="16" width="16" viewBox="0 0 16 16" fill="currentColor" style="margin-right:6px">
-        <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-1a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072-1.072A1 1 0 0 0 12 6h-1v2h-1a1 1 0 0 0-.714-1.7.75.75 0 0 1 1.072-1.072A1 1 0 0 0 10.25 4h-.5v2H6.5a.75.75 0 0 1 0-1.5H8V1.75A.75.75 0 0 1 8.75 1h.5v.75H9.5a.75.75 0 0 0 0-1.5h-5z"/>
-      </svg>
-      next-mavens-flow
-    </a>
-  </div>
-  <p class="project-desc">No description provided.</p>
-  <div class="project-card-footer">
-    <div class="project-meta">
-      <span class="lang-dot" style="background-color:#89e051"></span><span class="lang-name">Shell</span>
-      <span class="meta-item">
-        <svg height="14" width="14" viewBox="0 0 16 16" fill="currentColor">
-          <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25z"/>
-        </svg>
-        1
-      </span>
-      <span class="meta-item">
-        <svg height="14" width="14" viewBox="0 0 16 16" fill="currentColor">
-          <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0zM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0z"/>
-        </svg>
-        4
-      </span>
-    </div>
-    <span class="project-updated">Updated Jul 13, 2026</span>
-  </div>
-</div>
-<div class="project-card">
-  <div class="project-card-header">
-    <a class="project-name" href="https://github.com/Mkid095/nextmavens-control-plane-api" target="_blank">
-      <svg height="16" width="16" viewBox="0 0 16 16" fill="currentColor" style="margin-right:6px">
-        <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-1a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072-1.072A1 1 0 0 0 12 6h-1v2h-1a1 1 0 0 0-.714-1.7.75.75 0 0 1 1.072-1.072A1 1 0 0 0 10.25 4h-.5v2H6.5a.75.75 0 0 1 0-1.5H8V1.75A.75.75 0 0 1 8.75 1h.5v.75H9.5a.75.75 0 0 0 0-1.5h-5z"/>
-      </svg>
-      nextmavens-control-plane-api
-    </a>
-  </div>
-  <p class="project-desc">Control Plane API service for NextMavens platform</p>
-  <div class="project-card-footer">
-    <div class="project-meta">
-      <span class="lang-dot" style="background-color:#3178c6"></span><span class="lang-name">TypeScript</span>
-      <span class="meta-item">
-        <svg height="14" width="14" viewBox="0 0 16 16" fill="currentColor">
-          <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25z"/>
-        </svg>
-        1
-      </span>
-      <span class="meta-item">
-        <svg height="14" width="14" viewBox="0 0 16 16" fill="currentColor">
-          <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0zM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0z"/>
-        </svg>
-        0
-      </span>
-    </div>
-    <span class="project-updated">Updated Feb 3, 2026</span>
-  </div>
-</div>
-<div class="project-card">
-  <div class="project-card-header">
-    <a class="project-name" href="https://github.com/Mkid095/Mkid095" target="_blank">
-      <svg height="16" width="16" viewBox="0 0 16 16" fill="currentColor" style="margin-right:6px">
-        <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-1a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072-1.072A1 1 0 0 0 12 6h-1v2h-1a1 1 0 0 0-.714-1.7.75.75 0 0 1 1.072-1.072A1 1 0 0 0 10.25 4h-.5v2H6.5a.75.75 0 0 1 0-1.5H8V1.75A.75.75 0 0 1 8.75 1h.5v.75H9.5a.75.75 0 0 0 0-1.5h-5z"/>
-      </svg>
-      Mkid095
-    </a>
-  </div>
-  <p class="project-desc">No description provided.</p>
-  <div class="project-card-footer">
-    <div class="project-meta">
-      <span class="lang-dot" style="background-color:#f1e05a"></span><span class="lang-name">JavaScript</span>
-      <span class="meta-item">
-        <svg height="14" width="14" viewBox="0 0 16 16" fill="currentColor">
-          <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25z"/>
-        </svg>
-        0
-      </span>
-      <span class="meta-item">
-        <svg height="14" width="14" viewBox="0 0 16 16" fill="currentColor">
-          <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0zM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0z"/>
-        </svg>
-        0
-      </span>
-    </div>
-    <span class="project-updated">Updated Aug 10, 2026</span>
-  </div>
-</div>
-<div class="project-card">
-  <div class="project-card-header">
-    <a class="project-name" href="https://github.com/Mkid095/fidscript-deploy" target="_blank">
-      <svg height="16" width="16" viewBox="0 0 16 16" fill="currentColor" style="margin-right:6px">
-        <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-1a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072-1.072A1 1 0 0 0 12 6h-1v2h-1a1 1 0 0 0-.714-1.7.75.75 0 0 1 1.072-1.072A1 1 0 0 0 10.25 4h-.5v2H6.5a.75.75 0 0 1 0-1.5H8V1.75A.75.75 0 0 1 8.75 1h.5v.75H9.5a.75.75 0 0 0 0-1.5h-5z"/>
-      </svg>
-      fidscript-deploy
-    </a>
-  </div>
-  <p class="project-desc">start</p>
-  <div class="project-card-footer">
-    <div class="project-meta">
-      <span class="lang-dot" style="background-color:#3178c6"></span><span class="lang-name">TypeScript</span>
-      <span class="meta-item">
-        <svg height="14" width="14" viewBox="0 0 16 16" fill="currentColor">
-          <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25z"/>
-        </svg>
-        0
-      </span>
-      <span class="meta-item">
-        <svg height="14" width="14" viewBox="0 0 16 16" fill="currentColor">
-          <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0zM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0z"/>
-        </svg>
-        0
-      </span>
-    </div>
-    <span class="project-updated">Updated Aug 7, 2026</span>
-  </div>
-</div>
-<div class="project-card">
-  <div class="project-card-header">
-    <a class="project-name" href="https://github.com/Mkid095/soostori-mobile" target="_blank">
-      <svg height="16" width="16" viewBox="0 0 16 16" fill="currentColor" style="margin-right:6px">
-        <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-1a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072-1.072A1 1 0 0 0 12 6h-1v2h-1a1 1 0 0 0-.714-1.7.75.75 0 0 1 1.072-1.072A1 1 0 0 0 10.25 4h-.5v2H6.5a.75.75 0 0 1 0-1.5H8V1.75A.75.75 0 0 1 8.75 1h.5v.75H9.5a.75.75 0 0 0 0-1.5h-5z"/>
-      </svg>
-      soostori-mobile
-    </a>
-  </div>
-  <p class="project-desc">No description provided.</p>
-  <div class="project-card-footer">
-    <div class="project-meta">
-      <span class="lang-dot" style="background-color:#3178c6"></span><span class="lang-name">TypeScript</span>
-      <span class="meta-item">
-        <svg height="14" width="14" viewBox="0 0 16 16" fill="currentColor">
-          <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25z"/>
-        </svg>
-        0
-      </span>
-      <span class="meta-item">
-        <svg height="14" width="14" viewBox="0 0 16 16" fill="currentColor">
-          <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0zM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0z"/>
-        </svg>
-        0
-      </span>
-    </div>
-    <span class="project-updated">Updated Aug 4, 2026</span>
-  </div>
-</div>
-<div class="project-card">
-  <div class="project-card-header">
-    <a class="project-name" href="https://github.com/Mkid095/soostori-desktop" target="_blank">
-      <svg height="16" width="16" viewBox="0 0 16 16" fill="currentColor" style="margin-right:6px">
-        <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-1a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072-1.072A1 1 0 0 0 12 6h-1v2h-1a1 1 0 0 0-.714-1.7.75.75 0 0 1 1.072-1.072A1 1 0 0 0 10.25 4h-.5v2H6.5a.75.75 0 0 1 0-1.5H8V1.75A.75.75 0 0 1 8.75 1h.5v.75H9.5a.75.75 0 0 0 0-1.5h-5z"/>
-      </svg>
-      soostori-desktop
-    </a>
-  </div>
-  <p class="project-desc">No description provided.</p>
-  <div class="project-card-footer">
-    <div class="project-meta">
-      <span class="lang-dot" style="background-color:#3178c6"></span><span class="lang-name">TypeScript</span>
-      <span class="meta-item">
-        <svg height="14" width="14" viewBox="0 0 16 16" fill="currentColor">
-          <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25z"/>
-        </svg>
-        0
-      </span>
-      <span class="meta-item">
-        <svg height="14" width="14" viewBox="0 0 16 16" fill="currentColor">
-          <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0zM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0z"/>
-        </svg>
-        0
-      </span>
-    </div>
-    <span class="project-updated">Updated Aug 3, 2026</span>
-  </div>
-</div>
-</div>
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mkid095&repo=next-mavens-flow&show_owner=false&theme=default" width="492" />](https://github.com/Mkid095/next-mavens-flow)
+
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mkid095&repo=nextmavens-control-plane-api&show_owner=false&theme=default" width="492" />](https://github.com/Mkid095/nextmavens-control-plane-api)
+
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mkid095&repo=-next-mavens-fidscript-whatsapp-api-console&show_owner=false&theme=default" width="492" />](https://github.com/Mkid095/-next-mavens-fidscript-whatsapp-api-console)
+
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mkid095&repo=claude&show_owner=false&theme=default" width="492" />](https://github.com/Mkid095/claude)
+
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mkid095&repo=eurabay-living-system-ui&show_owner=false&theme=default" width="492" />](https://github.com/Mkid095/eurabay-living-system-ui)
+
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mkid095&repo=fidscript-deploy&show_owner=false&theme=default" width="492" />](https://github.com/Mkid095/fidscript-deploy)
 
 <!-- PROJECTS:END -->
 
@@ -343,28 +178,22 @@ const kennedy = {
 
 ## GitHub Statistics
 
-<div align="center">
+<span style="font-size:12px; color:#888;"><em>Auto-updated daily via GitHub Actions.</em></span>
 
-<!-- COMMITS:START -->
+<!-- STATS:START -->
 
-<div class="commits-card">
-  <div class="commits-label">Commits this month</div>
-  <div class="commits-count">0</div>
-  <div class="commits-month">August 2026</div>
-</div>
+<p align="center">
+  <img src="./profile/commits.svg" width="300" height="120" alt="Commits this month">
+</p>
 
-<!-- COMMITS:END -->
+<p align="center">
+  <img src="./profile/stats.svg" width="495" height="195" alt="GitHub Stats">
+  <img src="./profile/langs.svg" width="495" height="180" alt="Top Languages">
+</p>
 
-</div>
+<em>Monthly: 171 commits &middot; 71 public repos &middot; 94 private repos &middot; 7 followers &middot; 3 total stars &middot; All-time: 4,517 commits</em>
 
-<div align="center" style="margin-top:20px;">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mkid095&show_icons=true&theme=default&hide_border=true&title_color=2F2F2F&text_color=2F2F2F&icon_color=2F2F2F"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkid095&layout=compact&theme=default&hide_border=true&title_color=2F2F2F&text_color=2F2F2F"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mkid095&theme=default&hide_border=true&background=FFFFFF&stroke=2F2F2F&ring=2F2F2F&fire=2F2F2F&currStreakLabel=2F2F2F" alt="GitHub Streak" />
-
-</div>
+<!-- STATS:END -->
 
 ---
 

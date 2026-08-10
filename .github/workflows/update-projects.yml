@@ -1,36 +1,38 @@
-name: Update Pinned Projects
+name: Update GitHub Profile
 
 on:
   schedule:
     - cron: "0 6 * * *"   # runs daily at 06:00 UTC
-  workflow_dispatch: {}    # allows manual trigger from the Actions tab
-  push:
-    branches: [main]
+  workflow_dispatch: {}    # manual trigger from Actions tab
 
 permissions:
   contents: write
 
 jobs:
-  update-readme:
+  update-profile:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # needed for commit counting
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
-      - name: Update projects section
+      - name: Generate stat SVGs and update README
         env:
-          GITHUB_USERNAME: Mkid095
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/update-projects.js
+          GITHUB_USERNAME: Mkid095
+        run: node scripts/generate-stats.js
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet README.md || (git add README.md && git commit -m "Auto-update pinned projects")
+          # Only commit if something changed
+          git add profile/ README.md
+          git diff --quiet --cached || git commit -m "Auto-update profile stats [skip ci]"
           git push
