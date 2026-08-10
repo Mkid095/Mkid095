@@ -93,19 +93,15 @@ start
 
 ## Technology Stack
 
-**Languages** &nbsp; `TypeScript` `JavaScript` `Python` `SQL`
-
-**Frontend** &nbsp; `React` `Next.js` `Electron` `Tailwind CSS`
-
-**Backend** &nbsp; `Node.js` `Express` `Prisma`
-
-**Databases** &nbsp; `PostgreSQL` `MongoDB`
-
-**Infrastructure** &nbsp; `Docker` `Traefik` `GitHub Actions` `Nginx` `VPS (Linux & Win)`
-
-**AI & Automation** &nbsp; `Claude Code` `Multi-Agent Orchestration` `LLM Integration`
-
-**Tools** &nbsp; `Git` `GitHub` `PowerShell` `Bash`
+| Category | Technologies |
+|---|---|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-4a5568?style=flat-square&logo=prisma&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=flat-square&logo=mongodb&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-F1502F?style=flat-square&logo=traefik&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009900?style=flat-square&logo=nginx&logoColor=white) |
+| **AI & Automation** | ![Claude](https://img.shields.io/badge/Claude-22c55e?style=flat-square&logo=anthropic&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-22c55e?style=flat-square&logo=openai&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 
 ---
 
@@ -128,15 +124,13 @@ start
 
 ## Engineering Philosophy
 
-**Architecture before implementation.** Understand the system before building individual features.
-
-**Automation over repetition.** If a process happens repeatedly, it should become infrastructure.
-
-**Validate before proceeding.** Each phase of a build is confirmed working before moving to the next.
-
-**Observability over guesswork.** Production systems should make failures visible and explain what happened.
-
-**User experience over complexity.** The system can be complicated internally. The user shouldn't have to care.
+| Principle | Description |
+|---|---|
+| **Architecture before implementation** | Understand the system before building individual features |
+| **Automation over repetition** | If a process happens repeatedly, it should become infrastructure |
+| **Validate before proceeding** | Each phase of a build is confirmed working before moving to the next |
+| **Observability over guesswork** | Production systems should make failures visible and explain what happened |
+| **User experience over complexity** | The system can be complicated internally. The user shouldn't have to care |
 
 ---
 
