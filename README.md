@@ -1,5 +1,9 @@
 # Kennedy Mwangi
 
+|  |
+|:--:|
+| [<img src="https://res.cloudinary.com/dfp7uhzy3/image/upload/v1786358011/Asset_2_hrafzg.png" width="120" alt="Kennedy Mwangi">](https://github.com/Mkid095) |
+
 **Digital Solutions Architect &middot; CEO, [Next Mavens](https://www.nextmavens.com)** &middot; Nairobi, Kenya
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&labelColor=ffffff)](https://linkedin.com/in/Kennedy-Mwangi)
