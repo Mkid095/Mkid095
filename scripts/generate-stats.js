@@ -306,7 +306,7 @@ async function main() {
     const stars = r.stargazers_count || 0;
     const lang = r.language || "-";
     const desc = r.description || "No description";
-    return `### [${r.name}](${r.html_url})\n${desc}\n\n**${lang}** &middot; **${stars}** stars`;
+    return `### [${r.name}](${r.html_url})\n${desc}\n\n**${lang}**  - **${stars}** stars`;
   });
 
   // 7. Update README markers
@@ -320,7 +320,7 @@ async function main() {
 
 ![Top Languages](./profile/langs.svg)
 
-**${monthly}** commits this month &middot; **${publicRepos}** public repos &middot; **${privateRepos}** private repos &middot; **${followers}** followers &middot; **${totalStars}** stars &middot; **${totalCommits.toLocaleString()}** all-time commits`;
+**${monthly}** commits this month  - **${publicRepos}** public repos  - **${privateRepos}** private repos  - **${followers}** followers  - **${totalStars}** stars  - **${totalCommits.toLocaleString()}** all-time commits`;
 
   const sStart = readme.indexOf("<!-- STATS:START -->");
   const sEnd = readme.indexOf("<!-- STATS:END -->");

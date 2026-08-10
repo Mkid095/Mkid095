@@ -4,7 +4,7 @@
 |:--:|
 | [<img src="https://res.cloudinary.com/dfp7uhzy3/image/upload/v1786358011/Asset_2_hrafzg.png" width="120" alt="Kennedy Mwangi">](https://github.com/Mkid095) |
 
-**Digital Solutions Architect &middot; CEO, [Next Mavens](https://www.nextmavens.com)** &middot; Nairobi, Kenya
+**Digital Solutions Architect  -  CEO, [Next Mavens](https://www.nextmavens.com)**  -  Nairobi, Kenya
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&labelColor=ffffff)](https://linkedin.com/in/Kennedy-Mwangi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=googlechrome&labelColor=ffffff)](https://www.nextmavens.com)
@@ -50,42 +50,42 @@ const kennedy = {
 ### [next-mavens-flow](https://github.com/Mkid095/next-mavens-flow)
 No description
 
-**Shell** &middot; **1** stars
+**Shell**  -  **1** stars
 
 ---
 
 ### [nextmavens-control-plane-api](https://github.com/Mkid095/nextmavens-control-plane-api)
 Control Plane API service for NextMavens platform
 
-**TypeScript** &middot; **1** stars
+**TypeScript**  -  **1** stars
 
 ---
 
 ### [-next-mavens-fidscript-whatsapp-api-console](https://github.com/Mkid095/-next-mavens-fidscript-whatsapp-api-console)
 No description
 
-**TypeScript** &middot; **0** stars
+**TypeScript**  -  **0** stars
 
 ---
 
 ### [claude](https://github.com/Mkid095/claude)
 No description
 
-**-** &middot; **0** stars
+**-**  -  **0** stars
 
 ---
 
 ### [eurabay-living-system-ui](https://github.com/Mkid095/eurabay-living-system-ui)
 Project from Orchids.app - eurabay-living-system-ui
 
-**Python** &middot; **0** stars
+**Python**  -  **0** stars
 
 ---
 
 ### [fidscript-deploy](https://github.com/Mkid095/fidscript-deploy)
 start
 
-**TypeScript** &middot; **0** stars
+**TypeScript**  -  **0** stars
 
 <!-- PROJECTS:END -->
 
@@ -121,7 +121,7 @@ start
 
 ![Top Languages](./profile/langs.svg)
 
-**172** commits this month &middot; **71** public repos &middot; **94** private repos &middot; **7** followers &middot; **3** stars &middot; **4,518** all-time commits
+**172** commits this month  -  **71** public repos  -  **94** private repos  -  **7** followers  -  **3** stars  -  **4,518** all-time commits
 <!-- STATS:END -->
 
 ---
@@ -142,7 +142,7 @@ start
 
 ## Let's Connect
 
-**Kennedy Mwangi** &mdash; Digital Solutions Architect &middot; CEO, Next Mavens &mdash; Nairobi, Kenya
+**Kennedy Mwangi**  -  Digital Solutions Architect  -  CEO, Next Mavens  -  Nairobi, Kenya
 
 Open to collaboration on **AI infrastructure**, **developer platforms**, **SaaS architecture**, and **automation**.
 
