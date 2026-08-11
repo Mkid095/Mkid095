@@ -15,7 +15,7 @@
   <text x="428" y="116" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#22c55e" text-anchor="middle">Rank</text>
   <text x="428" y="130" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#22c55e" text-anchor="middle">S</text>
   <text x="24" y="80" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#444444" opacity="0.6">Commits</text>
-  <text x="24" y="108" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#22c55e" style="animation:countUp 0.4s ease-out both">4,518</text>
+  <text x="24" y="108" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#22c55e" style="animation:countUp 0.4s ease-out both">0</text>
   <text x="136" y="80" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#444444" opacity="0.6">Pull Requests</text>
   <text x="136" y="108" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#22c55e" style="animation:countUp 0.52s ease-out both">0</text>
   <text x="248" y="80" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#444444" opacity="0.6">Issues</text>

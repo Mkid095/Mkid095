@@ -50,42 +50,42 @@ const kennedy = {
 ### [next-mavens-flow](https://github.com/Mkid095/next-mavens-flow)
 No description
 
-**Shell**  -  **1** stars
+**Shell**  - **1** stars
 
 ---
 
 ### [nextmavens-control-plane-api](https://github.com/Mkid095/nextmavens-control-plane-api)
 Control Plane API service for NextMavens platform
 
-**TypeScript**  -  **1** stars
+**TypeScript**  - **1** stars
 
 ---
 
 ### [-next-mavens-fidscript-whatsapp-api-console](https://github.com/Mkid095/-next-mavens-fidscript-whatsapp-api-console)
 No description
 
-**TypeScript**  -  **0** stars
+**TypeScript**  - **0** stars
 
 ---
 
 ### [claude](https://github.com/Mkid095/claude)
 No description
 
-**-**  -  **0** stars
+**-**  - **0** stars
 
 ---
 
 ### [eurabay-living-system-ui](https://github.com/Mkid095/eurabay-living-system-ui)
 Project from Orchids.app - eurabay-living-system-ui
 
-**Python**  -  **0** stars
+**Python**  - **0** stars
 
 ---
 
 ### [fidscript-deploy](https://github.com/Mkid095/fidscript-deploy)
 start
 
-**TypeScript**  -  **0** stars
+**TypeScript**  - **0** stars
 
 <!-- PROJECTS:END -->
 
@@ -117,7 +117,7 @@ start
 
 ![Top Languages](./profile/langs.svg)
 
-**172** commits this month  -  **71** public repos  -  **94** private repos  -  **7** followers  -  **3** stars  -  **4,518** all-time commits
+**0** commits this month  - **71** public repos  - **0** private repos  - **7** followers  - **3** stars  - **0** all-time commits
 <!-- STATS:END -->
 
 ---

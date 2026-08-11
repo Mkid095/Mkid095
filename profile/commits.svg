@@ -9,9 +9,9 @@
 </style></defs>
   <rect width="300" height="120" fill="#ffffff" rx="8"/>
   <text x="20" y="26" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" fill="#444444" opacity="0.6" letter-spacing="0.05em">COMMITS THIS MONTH</text>
-  <text x="20" y="68" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="#22c55e" style="animation:countUp 0.8s ease-out both">172</text>
+  <text x="20" y="68" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="#22c55e" style="animation:countUp 0.8s ease-out both">0</text>
   <text x="20" y="88" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#444444" opacity="0.5">August 2026</text>
   <circle cx="268" cy="28" r="5" fill="#22c55e" style="animation:pulse 2s ease-in-out infinite"/>
-  <text x="20" y="112" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#444444" opacity="0.4">All time: 4,518 commits</text>
+  <text x="20" y="112" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#444444" opacity="0.4">All time: 0 commits</text>
   <line x1="0" y1="0" x2="0" y2="120" stroke="#22c55e" stroke-width="4" opacity="0.8"/>
 </svg>
