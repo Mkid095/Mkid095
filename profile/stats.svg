@@ -28,5 +28,5 @@
   <text x="148" y="155" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#444444" opacity="0.6">Followers</text>
   <text x="148" y="178" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#22c55e" style="animation:countUp 0.7s ease-out both">7</text>
   <text x="272" y="155" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#444444" opacity="0.6">Following</text>
-  <text x="272" y="178" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#22c55e" style="animation:countUp 0.8s ease-out both">21</text>
+  <text x="272" y="178" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#22c55e" style="animation:countUp 0.8s ease-out both">22</text>
 </svg>
