@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="495" height="195" viewBox="0 0 495 195">
-  <defs><style>
-  @keyframes countUp { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
-  @keyframes shimmer { 0%,100% { opacity:0.7; } 50% { opacity:1; } }
-  @keyframes pulse { 0%,100% { transform:scale(1); } 50% { transform:scale(1.15); } }
-  @keyframes slideIn { from { opacity:0; transform:translateX(-12px); } to { opacity:1; transform:translateX(0); } }
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="220" viewBox="0 0 495 220" role="img" aria-label="Kennedy Mwangi - GitHub Profile Overview">
+  <defs>
+    <style>
+      .root { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .lbl { font-size: 9.5px; font-weight: 700; letter-spacing: 0.06em; fill: #6b7280; }
+      .num { font-size: 26px; font-weight: 700; fill: #111827; font-variant-numeric: tabular-nums; }
+      .num-green { font-size: 26px; font-weight: 700; fill: #16a34a; font-variant-numeric: tabular-nums; }
+      .sub { font-size: 9.5px; fill: #9ca3af; }
+      .name { font-size: 14px; font-weight: 700; fill: #111827; }
+      @keyframes fadeUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+      .a0 { animation: fadeUp 0.6s ease-out 0.0s both; }
+      .a1 { animation: fadeUp 0.6s ease-out 0.1s both; }
+      .a2 { animation: fadeUp 0.6s ease-out 0.15s both; }
+      .a3 { animation: fadeUp 0.6s ease-out 0.2s both; }
+      .a4 { animation: fadeUp 0.6s ease-out 0.3s both; }
+      .a5 { animation: fadeUp 0.6s ease-out 0.35s both; }
+      .a6 { animation: fadeUp 0.6s ease-out 0.4s both; }
+      .a7 { animation: fadeUp 0.6s ease-out 0.45s both; }
+    </style>
+  </defs>
 
+<<<<<<< Updated upstream
 </style></defs>
   <rect width="495" height="195" fill="#ffffff" rx="8"/>
   <text x="24" y="38" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="650" fill="#222222">Kennedy Mwangi</text>
@@ -30,3 +45,60 @@
   <text x="272" y="155" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#444444" opacity="0.6">Following</text>
   <text x="272" y="178" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#22c55e" style="animation:countUp 0.8s ease-out both">22</text>
 </svg>
+=======
+  <!-- Card surface -->
+  <rect width="495" height="220" fill="#ffffff" rx="12"/>
+
+  <!-- Header bar -->
+  <rect width="495" height="40" fill="#f8faf7" rx="12"/>
+  <rect y="28" width="495" height="12" fill="#f8faf7"/>
+  <text x="20" y="26" class="root name">Kennedy Mwangi</text>
+  <text x="138" y="26" class="root" font-size="13" fill="#6b7280">Profile Overview</text>
+
+  <!-- Divider -->
+  <line x1="20" y1="40" x2="475" y2="40" stroke="#e5e7eb" stroke-width="1"/>
+
+  <!-- Row 1 tiles -->
+  <!-- Commits (green) -->
+  <rect x="20" y="56" width="105" height="72" fill="#f0fdf4" rx="8"/>
+  <text x="30" y="76" class="root lbl a0">COMMITS</text>
+  <text x="30" y="104" class="root num-green a0">4,518</text>
+  <text x="30" y="120" class="root sub a0">all time</text>
+
+  <!-- Pull Requests -->
+  <rect x="135" y="56" width="105" height="72" fill="#f9fafb" rx="8"/>
+  <text x="145" y="76" class="root lbl a1">PULL REQUESTS</text>
+  <text x="145" y="104" class="root num a1">0</text>
+
+  <!-- Issues -->
+  <rect x="250" y="56" width="105" height="72" fill="#f9fafb" rx="8"/>
+  <text x="260" y="76" class="root lbl a2">ISSUES</text>
+  <text x="260" y="104" class="root num a2">0</text>
+
+  <!-- Stars -->
+  <rect x="365" y="56" width="110" height="72" fill="#f9fafb" rx="8"/>
+  <text x="375" y="76" class="root lbl a3">STARS</text>
+  <text x="375" y="104" class="root num a3">3</text>
+
+  <!-- Row 2 tiles -->
+  <!-- Public Repos (green) -->
+  <rect x="20" y="138" width="105" height="66" fill="#f0fdf4" rx="8"/>
+  <text x="30" y="157" class="root lbl a4">PUBLIC REPOS</text>
+  <text x="30" y="188" class="root num-green a4">71</text>
+
+  <!-- Private Repos (green) -->
+  <rect x="135" y="138" width="105" height="66" fill="#f0fdf4" rx="8"/>
+  <text x="145" y="157" class="root lbl a5">PRIVATE REPOS</text>
+  <text x="145" y="188" class="root num-green a5">94</text>
+
+  <!-- Followers -->
+  <rect x="250" y="138" width="105" height="66" fill="#f9fafb" rx="8"/>
+  <text x="260" y="157" class="root lbl a6">FOLLOWERS</text>
+  <text x="260" y="188" class="root num a6">7</text>
+
+  <!-- Following -->
+  <rect x="365" y="138" width="110" height="66" fill="#f9fafb" rx="8"/>
+  <text x="375" y="157" class="root lbl a7">FOLLOWING</text>
+  <text x="375" y="188" class="root num a7">21</text>
+</svg>
+>>>>>>> Stashed changes

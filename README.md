@@ -39,6 +39,8 @@ const kennedy = {
 };
 ```
 
+> *"AI came to create opportunities and not to pet jobs, it just made things faster."*
+
 ---
 
 ## Pinned Projects
@@ -141,3 +143,5 @@ start
 Open to collaboration on **AI infrastructure**, **developer platforms**, **SaaS architecture**, and **automation**.
 
 *Technology should empower people, not complicate their lives.*
+
+> *"AI came to create opportunities and not to pet jobs, it just made things faster."*
