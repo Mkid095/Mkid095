@@ -1,63 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="130" viewBox="0 0 300 130" role="img" aria-label="Commits This Month (dark)">
-  <defs>
-    <style>
-      .root { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
-      .lbl  { font-size: 11px; font-weight: 700; letter-spacing: 0.08em; fill: #22c55e; }
-      .hero { font-size: 42px; font-weight: 800; fill: #22c55e; font-variant-numeric: tabular-nums; }
-      .sub  { font-size: 11px; fill: #9ca3af; }
-      .foot { font-size: 10px; fill: #6b7280; }
-    </style>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="130" viewBox="0 0 300 130">
+  <defs><style>
+  @keyframes countUp { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
+  @keyframes shimmer { 0%,100% { opacity:0.7; } 50% { opacity:1; } }
+  @keyframes pulse { 0%,100% { transform:scale(1); } 50% { transform:scale(1.15); } }
+  @keyframes slideIn { from { opacity:0; transform:translateX(-12px); } to { opacity:1; transform:translateX(0); } }
 
-<<<<<<< Updated upstream
 </style></defs>
-  <rect width="300" height="120" fill="#0d1117" rx="8"/>
-  <text x="20" y="26" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" fill="#8b949e" opacity="0.6" letter-spacing="0.05em">COMMITS THIS MONTH</text>
-  <text x="20" y="68" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="#22c55e" style="animation:countUp 0.8s ease-out both">0</text>
-  <text x="20" y="88" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e" opacity="0.5">August 2026</text>
-  <circle cx="268" cy="28" r="5" fill="#22c55e" style="animation:pulse 2s ease-in-out infinite"/>
-  <text x="20" y="112" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e" opacity="0.4">All time: 0 commits</text>
-  <line x1="0" y1="0" x2="0" y2="120" stroke="#22c55e" stroke-width="4" opacity="0.8"/>
-</svg>
-=======
+  <rect width="300" height="130" fill="#0d1117" rx="8"/>
   <rect width="300" height="130" fill="#0d1117" rx="12"/>
-
-  <!-- Left green accent stripe -->
-  <rect x="0" y="0" width="4" height="130" fill="#22c55e"/>
-
-  <!-- Pulsing dot near the label -->
-  <circle cx="252" cy="26" r="5" fill="#22c55e">
-    <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
-  </circle>
-
-  <text x="20" y="30" class="root lbl">COMMITS THIS MONTH</text>
-  <text x="20" y="80" class="root hero" data-counter="hero">0</text>
-  <text x="20" y="98" class="root sub">August 2026</text>
-  <text x="20" y="118" class="root foot">All time: 4,518 commits</text>
-
-  <script type="application/ecmascript"><![CDATA[
-    (function(){
-      var nodes = document.querySelectorAll('[data-counter]');
-      if (!nodes.length) return;
-      var duration = 700;
-      var start = null;
-      function easeOut(t){ return 1 - Math.pow(1 - t, 3); }
-      function step(ts){
-        if (!start) start = ts;
-        var p = Math.min(1, (ts - start) / duration);
-        var e = easeOut(p);
-        for (var i = 0; i < nodes.length; i++){
-          var n = nodes[i];
-          var target = n.getAttribute('data-target') | 0;
-          n.textContent = Math.round(target * e).toLocaleString();
-        }
-        if (p < 1) requestAnimationFrame(step);
-      }
-      var hero = document.querySelector('[data-counter="hero"]');
-      if (hero) hero.setAttribute('data-target', '172');
-      requestAnimationFrame(step);
-    })();
-  ]]></script>
+  <rect width="5" height="130" fill="#22c55e" rx="3"/>
+  <rect x="0" y="12" width="5" height="116" fill="#22c55e"/>
+  <text x="20" y="30" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#22c55e" letter-spacing="1.2">COMMITS THIS MONTH</text>
+  <text x="20" y="82" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="800" fill="#22c55e" style="animation:countUp 0.8s ease-out both">0</text>
+  <text x="20" y="102" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#9ca3af">August 2026</text>
+  <text x="20" y="120" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9ca3af">All time: 0 commits</text>
+  <circle cx="270" cy="30" r="5" fill="#22c55e" style="animation:pulse 2s ease-in-out infinite"/>
 </svg>
->>>>>>> Stashed changes
