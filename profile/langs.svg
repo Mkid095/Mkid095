@@ -12,13 +12,13 @@
   <text x="20" y="32" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#222222" letter-spacing="0.5">Top Languages</text>
   <line x1="20" y1="42" x2="475" y2="42" stroke="#e5e7eb" stroke-width="1"/>
   <text x="20" y="70" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#374151">TypeScript</text>
-  <text x="475" y="70" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#6b7280" text-anchor="end">57%</text>
+  <text x="475" y="70" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#6b7280" text-anchor="end">55%</text>
   <rect x="20" y="76" width="340" height="8" fill="#e5e7eb" rx="4"/>
-  <rect x="20" y="76" width="194" height="8" fill="#22c55e" rx="4" style="animation:countUp 0.7s ease-out 0.4s both"/>
+  <rect x="20" y="76" width="187" height="8" fill="#22c55e" rx="4" style="animation:countUp 0.7s ease-out 0.4s both"/>
   <text x="20" y="100" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#374151">JavaScript</text>
-  <text x="475" y="100" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#6b7280" text-anchor="end">33%</text>
+  <text x="475" y="100" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#6b7280" text-anchor="end">32%</text>
   <rect x="20" y="106" width="340" height="8" fill="#e5e7eb" rx="4"/>
-  <rect x="20" y="106" width="112" height="8" fill="#f1e05a" rx="4" style="animation:countUp 0.7s ease-out 0.48000000000000004s both"/>
+  <rect x="20" y="106" width="109" height="8" fill="#f1e05a" rx="4" style="animation:countUp 0.7s ease-out 0.48000000000000004s both"/>
   <text x="20" y="130" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#374151">Python</text>
   <text x="475" y="130" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#6b7280" text-anchor="end">3%</text>
   <rect x="20" y="136" width="340" height="8" fill="#e5e7eb" rx="4"/>
@@ -31,4 +31,8 @@
   <text x="475" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#6b7280" text-anchor="end">3%</text>
   <rect x="20" y="196" width="340" height="8" fill="#e5e7eb" rx="4"/>
   <rect x="20" y="196" width="10" height="8" fill="#89e051" rx="4" style="animation:countUp 0.7s ease-out 0.72s both"/>
+  <text x="20" y="220" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#374151">PowerShell</text>
+  <text x="475" y="220" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#6b7280" text-anchor="end">3%</text>
+  <rect x="20" y="226" width="340" height="8" fill="#e5e7eb" rx="4"/>
+  <rect x="20" y="226" width="10" height="8" fill="#8b949e" rx="4" style="animation:countUp 0.7s ease-out 0.8s both"/>
 </svg>
