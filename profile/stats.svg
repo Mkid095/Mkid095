@@ -29,13 +29,13 @@
   <text x="377" y="108" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#374151" style="animation:countUp 0.7s ease-out 0.2s both">3</text>
   <rect x="20" y="138" width="105" height="66" fill="#f0fdf4" rx="8"/>
   <text x="32" y="157" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="600" fill="#222222" opacity="0.7" letter-spacing="0.8">PUBLIC REPOS</text>
-  <text x="32" y="192" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#222222" style="animation:countUp 0.7s ease-out 0.3s both">77</text>
+  <text x="32" y="192" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#222222" style="animation:countUp 0.7s ease-out 0.3s both">78</text>
   <rect x="135" y="138" width="105" height="66" fill="#f0fdf4" rx="8"/>
   <text x="147" y="157" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="600" fill="#222222" opacity="0.7" letter-spacing="0.8">PRIVATE REPOS</text>
   <text x="147" y="192" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#222222" style="animation:countUp 0.7s ease-out 0.35s both">undefined</text>
   <rect x="250" y="138" width="105" height="66" fill="#f9fafb" rx="8"/>
   <text x="262" y="157" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="600" fill="#374151" opacity="0.5" letter-spacing="0.8">FOLLOWERS</text>
-  <text x="262" y="192" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#374151" style="animation:countUp 0.7s ease-out 0.4s both">7</text>
+  <text x="262" y="192" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#374151" style="animation:countUp 0.7s ease-out 0.4s both">8</text>
   <rect x="365" y="138" width="110" height="66" fill="#f9fafb" rx="8"/>
   <text x="377" y="157" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="600" fill="#374151" opacity="0.5" letter-spacing="0.8">FOLLOWING</text>
   <text x="377" y="192" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#374151" style="animation:countUp 0.7s ease-out 0.45s both">22</text>

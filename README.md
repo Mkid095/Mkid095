@@ -77,17 +77,17 @@ No description
 
 ---
 
+### [desktop-orchastrator-herness](https://github.com/Mkid095/desktop-orchastrator-herness)
+No description
+
+**-**  - **0** stars
+
+---
+
 ### [eurabay-living-system-ui](https://github.com/Mkid095/eurabay-living-system-ui)
 Project from Orchids.app - eurabay-living-system-ui
 
 **Python**  - **0** stars
-
----
-
-### [fidscript-deploy](https://github.com/Mkid095/fidscript-deploy)
-start
-
-**TypeScript**  - **0** stars
 
 <!-- PROJECTS:END -->
 
@@ -119,7 +119,7 @@ start
 
 ![Top Languages](./profile/langs.svg)
 
-**0** commits this month  - **77** public repos  - **0** private repos  - **7** followers  - **3** stars  - **0** all-time commits
+**0** commits this month  - **78** public repos  - **0** private repos  - **8** followers  - **3** stars  - **0** all-time commits
 <!-- STATS:END -->
 
 ---
