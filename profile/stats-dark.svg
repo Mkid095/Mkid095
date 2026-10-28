@@ -38,5 +38,5 @@
   <text x="262" y="192" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#374151" style="animation:countUp 0.7s ease-out 0.4s both">8</text>
   <rect x="365" y="138" width="110" height="66" fill="#f9fafb" rx="8"/>
   <text x="377" y="157" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="600" fill="#374151" opacity="0.5" letter-spacing="0.8">FOLLOWING</text>
-  <text x="377" y="192" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#374151" style="animation:countUp 0.7s ease-out 0.45s both">24</text>
+  <text x="377" y="192" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#374151" style="animation:countUp 0.7s ease-out 0.45s both">25</text>
 </svg>
